@@ -1,0 +1,5 @@
+{"date": "26.11.2026", "items": [
+{"title": "ChatGPT'da Chat va Work birlaşmoqda", "body": "OpenAI Pro obunaçilarining bir qismida Chat va Work uçun yagona limitni sinamoqda. Keng tarqatiş dekabrga rejalaştirilgan.", "source": "TechCrunch", "icon": "chat"},
+{"title": "Ştatlar Character.AI savdosiga qarşi", "body": "AQŞ ştatlari bosh prokurorlari bankrot Character.AI foydalanuvçilar çatlarini sotiş rejasiga qarşi çiqdi.", "source": "TechCrunch", "icon": "shield"},
+{"title": "Anthropic API Rust tiliga köçdi", "body": "Claude agentlari Messages API'ni Python'dan Rust'ga qayta yozdi. Natijada protsessor sarfi taxminan 70% kamaydi.", "source": "anthropic.com", "icon": "code"}
+]}
